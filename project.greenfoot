@@ -1,5 +1,5 @@
 #Greenfoot properties
-#Tue Apr 20 07:48:11 EDT 2021
+#Tue Apr 27 07:47:27 EDT 2021
 class.Crab.superclass=
 editor.fx.0.height=739
 target2.width=80
@@ -59,17 +59,17 @@ target2.typeParameters=
 target1.naviview.expanded=true
 version=3.0.0
 class.Building.superclass=greenfoot.World
-editor.fx.0.y=47
+editor.fx.0.y=37
 target5.editor.width=1044
-editor.fx.0.x=370
+editor.fx.0.x=685
 class.Key.image=white-key.png
 target2.showInterface=false
 class.Flag.superclass=greenfoot.Actor
 dependency1.from=Piano
 target5.editor.y=92
 target5.editor.x=189
-mainWindow.y=256
-mainWindow.x=178
+mainWindow.y=261
+mainWindow.x=148
 target5.showInterface=false
 target2.name=Key
 readme.name=@README
