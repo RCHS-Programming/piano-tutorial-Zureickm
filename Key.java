@@ -26,13 +26,13 @@ public class Key extends Actor
     {
       if ( !isDown && Greenfoot.isKeyDown (key))        
         {               
-          setImage ("white-key-down.png");                
+          setImage (downImage);                
           isDown = true;      
           Greenfoot.playSound (sound);
         }
       if ( isDown && !Greenfoot.isKeyDown (key))       
         {                
-             setImage ("white-key.png");                
+             setImage (upImage);                
              isDown = false;        
         }
     }
